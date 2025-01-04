@@ -83,7 +83,7 @@ Se creó un sistema para enviar notificaciones desacoplado de las implementacion
 - Clases concretas como **EmailNotification**, **SMSNotification** y **PushNotification** implementan la lógica de cada tipo de notificación.
 - **NotificationService**: Depende de la interfaz **Notification** para enviar notificaciones.
 
-[Ver código DIP]((https://github.com/SanalbuDev1/SolidExercises/blob/main/src/main/java/solid/examples/java/solid/java/badexercises/goodexercises/DependencyInversion.java)
+[Ver código DIP](https://github.com/SanalbuDev1/SolidExercises/blob/main/src/main/java/solid/examples/java/solid/java/badexercises/goodexercises/DependencyInversion.java)
 
 ---
 
