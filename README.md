@@ -16,7 +16,8 @@ Separamos las responsabilidades de gestión de datos, presentación y persistenc
 - **BookPrinter**: Responsable de mostrar los detalles del libro en formato de texto.
 - **BookRepository**: Responsable de guardar la información del libro en la base de datos.
 
-[Ver código SRP](#)
+[Ver código SRP]([Ver código SRP](https://github.com/SanalbuDev1/SolidExercises/blob/main/src/main/java/solid/examples/java/solid/java/badexercises/goodexercises/SingleResponsability.java)
+)
 
 ---
 
