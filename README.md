@@ -33,7 +33,7 @@ Se creó una estructura que permite agregar nuevos tipos de descuentos sin modif
 - Clases concretas como **GenericDiscount**, **SeasonalDiscount** y **QuantityDiscount** implementan la lógica de cada tipo de descuento.
 - **PriceCalculator**: Utiliza la interfaz para calcular precios con descuentos.
 
-[Ver código OCP](#)
+[Ver código OCP](https://github.com/SanalbuDev1/SolidExercises/blob/main/src/main/java/solid/examples/java/solid/java/badexercises/goodexercises/OpenClosed.java))
 
 ---
 
@@ -49,7 +49,7 @@ Se separaron las responsabilidades de cálculo del área para diferentes figuras
 - Clases concretas como **Rectangle**, **Square** y **Circle** implementan la lógica para calcular sus áreas respectivas.
 - **AreaCalculator**: Permite calcular el área de cualquier figura geométrica basada en la interfaz.
 
-[Ver código LSP](#)
+[Ver código LSP](https://github.com/SanalbuDev1/SolidExercises/blob/main/src/main/java/solid/examples/java/solid/java/badexercises/goodexercises/SustitutionLiskov.java))
 
 ---
 
@@ -67,7 +67,7 @@ Se diseñaron interfaces específicas para diferentes tipos de empleados:
 
 Cada tipo de empleado implementa únicamente las interfaces que necesita, evitando métodos innecesarios.
 
-[Ver código ISP](#)
+[Ver código ISP](https://github.com/SanalbuDev1/SolidExercises/blob/main/src/main/java/solid/examples/java/solid/java/badexercises/goodexercises/InterfaceSegregation.java)
 
 ---
 
@@ -83,7 +83,7 @@ Se creó un sistema para enviar notificaciones desacoplado de las implementacion
 - Clases concretas como **EmailNotification**, **SMSNotification** y **PushNotification** implementan la lógica de cada tipo de notificación.
 - **NotificationService**: Depende de la interfaz **Notification** para enviar notificaciones.
 
-[Ver código DIP](#)
+[Ver código DIP]((https://github.com/SanalbuDev1/SolidExercises/blob/main/src/main/java/solid/examples/java/solid/java/badexercises/goodexercises/DependencyInversion.java)
 
 ---
 
